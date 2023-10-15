@@ -1,0 +1,43 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * poppins:
+ *   - http://typekit.com/eulas/00000000000000007735fdb6
+ *   - http://typekit.com/eulas/00000000000000007735fdb4
+ *   - http://typekit.com/eulas/00000000000000007735fdb7
+ *   - http://typekit.com/eulas/00000000000000007735fdb2
+ *
+ * © 2009-2023 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2022-08-27 18:17:09 UTC"}*/
+
+@import url("../p.typekit.net/p3ef0.css?s=1&amp;k=nwx6adv&amp;ht=tk&amp;f=37513.37516.37518.37520&amp;a=3467080&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"poppins";
+src:url("af/070c63/00000000000000007735fdb6/30/l3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("woff2"),url("af/070c63/00000000000000007735fdb6/30/d3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("woff"),url("af/070c63/00000000000000007735fdb6/30/a3eab?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n3&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"poppins";
+src:url("af/f2b266/00000000000000007735fdb4/30/l0b8e?subset_id=2&amp;fvd=n4&amp;v=3") format("woff2"),url("af/f2b266/00000000000000007735fdb4/30/d0b8e?subset_id=2&amp;fvd=n4&amp;v=3") format("woff"),url("af/f2b266/00000000000000007735fdb4/30/a0b8e?subset_id=2&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"poppins";
+src:url("af/bf384f/00000000000000007735fdb7/30/l7188?subset_id=2&amp;fvd=n5&amp;v=3") format("woff2"),url("af/bf384f/00000000000000007735fdb7/30/d7188?subset_id=2&amp;fvd=n5&amp;v=3") format("woff"),url("af/bf384f/00000000000000007735fdb7/30/a7188?subset_id=2&amp;fvd=n5&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"poppins";
+src:url("af/21f608/00000000000000007735fdb2/30/le54d?subset_id=2&amp;fvd=n6&amp;v=3") format("woff2"),url("af/21f608/00000000000000007735fdb2/30/de54d?subset_id=2&amp;fvd=n6&amp;v=3") format("woff"),url("af/21f608/00000000000000007735fdb2/30/ae54d?subset_id=2&amp;fvd=n6&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+.tk-poppins { font-family: "poppins",sans-serif; }
